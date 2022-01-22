@@ -10,3 +10,7 @@ https://github.com/udacity/deep-learning-v2-pytorch
 ## Style Transfer
 
 ## Recurrent Neural Networks
+
+## Sentiment Prediction RNNs
+
+## Depolying PyTorch Models
