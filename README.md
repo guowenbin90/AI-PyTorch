@@ -4,7 +4,9 @@ https://github.com/udacity/deep-learning-v2-pytorch
 ## Introduction to Neural Network
 
 ## Introduction to PyTorch
-
+PyTorch was released in early 2017 and has been making a pretty big impact in the deep learning community. 
+It's developed as an open source project by the Facebook AI Research team, but is being adopted by teams everywhere in industry and academia. 
+It's one of the best frameworks for learning deep learning and just a delight to work with in general. 
 ## Convolutional Neural Networks
 
 ## Style Transfer
