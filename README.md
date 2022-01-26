@@ -8,6 +8,7 @@ PyTorch was released in early 2017 and has been making a pretty big impact in th
 It's developed as an open source project by the Facebook AI Research team, but is being adopted by teams everywhere in industry and academia. 
 It's one of the best frameworks for learning deep learning and just a delight to work with in general.  
 1. Tensors in PyTorch
+2. Neural Networks in PyTorch
 ## Convolutional Neural Networks
 
 ## Style Transfer
