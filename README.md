@@ -9,6 +9,7 @@ It's developed as an open source project by the Facebook AI Research team, but i
 It's one of the best frameworks for learning deep learning and just a delight to work with in general.  
 1. Tensors in PyTorch
 2. Neural Networks in PyTorch
+3. Training Neural Networks
 ## Convolutional Neural Networks
 
 ## Style Transfer
