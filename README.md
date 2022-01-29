@@ -10,6 +10,7 @@ It's one of the best frameworks for learning deep learning and just a delight to
 1. Tensors in PyTorch
 2. Neural Networks in PyTorch
 3. Training Neural Networks
+4. Fashion-MNIST
 ## Convolutional Neural Networks
 
 ## Style Transfer
