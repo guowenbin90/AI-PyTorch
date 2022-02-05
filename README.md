@@ -14,6 +14,7 @@ It's one of the best frameworks for learning deep learning and just a delight to
 5. Inference and Validation
 6. Saving and Loading Models
 7. Loading Image Data
+8. Transfer Learning
 ## Convolutional Neural Networks
 
 ## Style Transfer
